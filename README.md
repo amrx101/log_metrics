@@ -6,6 +6,11 @@ log_metrics to extract insight from server logs.
 
   - Retrieve insights about API requests.
   - 
+  
+# Github
+```shell script
+git clone https://github.com/amrx101/log_metrics.git
+```
 
 ### Installation
 Requires Python 2.7 & pip
