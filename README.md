@@ -33,7 +33,7 @@ virtualenv --version
 ```
 Create a virtualenv
 ```sh
-cd crserv
+cd log_metrics
 virtualenv venv
 virtualenv -p /usr/bin/python2.7 venv
 source venv/bin/activate
